@@ -1,0 +1,11 @@
+IG;0;env;tableBase;i32;0;0
+IG;1;env;DYNAMICTOP_PTR;i32;0;3690752
+IG;2;env;STACKTOP;i32;0;3690768
+IG;3;global;NaN;f64;0;NaN
+IG;4;global;Infinity;f64;0;Infinity
+EC;719;__GLOBAL__sub_I_tapedeck_cc;
+ER
+EC;846;stackAlloc;8
+ER
+EC;846;stackAlloc;15
+ER
